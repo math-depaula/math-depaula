@@ -20,7 +20,7 @@ Advanced Excel skills and basic data science knowledge, providing a multifaceted
 ## 📚 **Languages**
 - English (Advanced)
 - Spanish (Intermediate)
-- Portuguese:(Native)
+- Portuguese (Native)
 
 ### Connect with me 📲
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-de-paula-goncalves/)
